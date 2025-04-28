@@ -2,4 +2,5 @@ Steve - 34 - M - Gold
 Mike - 20 - M - Regular
 Anna - 22 - F - Gold
 Bob - 40 - M - Trial
-e
+David - 18 - M - Trial
+Rick - 22 - M - Gold
