@@ -1,4 +1,4 @@
-Steve
-Mike
-Anna
-Bob
+Steve - 34 - M
+Mike - 20 - M
+Anna - 22 - F
+Bob - 40 - M
