@@ -1,4 +1,5 @@
-Steve - 34 - M
-Mike - 20 - M
-Anna - 22 - F
-Bob - 40 - M
+Steve - 34 - M - Gold
+Mike - 20 - M - Regular
+Anna - 22 - F - Gold
+Bob - 40 - M - Trial
+e
